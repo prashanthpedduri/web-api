@@ -88,4 +88,4 @@ tolerations: []
 affinity: {}
 
 emailDomainTest:
-  adminemail: prashanth@sndevopss.xyz
+  adminemail: prashanth@sndevops.xyz
