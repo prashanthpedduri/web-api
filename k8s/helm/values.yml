@@ -86,3 +86,6 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+
+emailDomainTest:
+  adminemail: prashanth@sndevopss.xyz
