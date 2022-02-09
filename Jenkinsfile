@@ -35,7 +35,7 @@ pipeline {
                               /**
                               * DevOps Config App related information
                               */
-                              appName='devops-demo-web-app'
+                              appName='devops-config-demo-web-app'
                               deployableName = 'PROD-US'
                               componentName="web-app-v1.1"
                               collectionName="release-1.0"
